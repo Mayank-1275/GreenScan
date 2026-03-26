@@ -138,17 +138,12 @@ GreenScan/
 ├── requirements.txt        # Python dependencies
 ├── config.json             # Default threshold & camera configuration
 ├── README.md               # This file
-│
-├── Sample/                 # (Optional) Sample drone images for testing
-    ├── Drone_Image_001.jpg
-    ├── Drone_Image_001_MS_R.TIF
-    ├── Drone_Image_001_MS_G.TIF
-    ├── Drone_Image_001_MS_NIR.TIF
-    └── Drone_Image_001_MS_RE.TIF
 
 ```
 
 ---
+
+## Sample Images : <https://drive.google.com/drive/folders/1K7KMLjZwbYZLtD6peJp7ck7-aZdAz5ck?usp=sharing>
 
 ## ⚙️ Configuration (`config.json`)
 
